@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LucasBassetti/react-simple-chatbot"
+    "url": "https://github.com/bongga-co/react-simple-chatbot"
   },
   "keywords": [
     "react",
@@ -44,9 +44,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LucasBassetti/react-simple-chatbot/issues"
+    "url": "https://github.com/bongga-co/react-simple-chatbot/issues"
   },
-  "homepage": "https://github.com/LucasBassetti/react-simple-chatbot#readme",
+  "homepage": "https://github.com/bongga-co/react-simple-chatbot",
   "devDependencies": {
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
